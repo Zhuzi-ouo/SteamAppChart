@@ -20,3 +20,8 @@ chart.search
 ```python
 chart.count
 ```
+## json說明
+```json
+{
+  "遊戲名稱":"遊戲SteamID"
+}
