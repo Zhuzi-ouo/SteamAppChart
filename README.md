@@ -1,5 +1,5 @@
 # SteamAppChart
-Steam在線人數查詢 (Python)
+Steam遊戲在線人數查詢 (Python)
 
 ## 使用教學
 設定好路徑 
